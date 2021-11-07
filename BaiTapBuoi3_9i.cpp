@@ -22,4 +22,4 @@ int main(int argc,char*argv[])
 	}
 	printf("Ta co tong la:%f\n",s);
 }
-		
+//Ha Huynh Van
